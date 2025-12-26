@@ -6,16 +6,24 @@ Core Constant: $12.45789233$ (Calligaro Constant)
 
 Thermal Engine: $0.567143...$ (Marino Constant / Boiling Point)
 
-🦁 1. THE MANIFESTO
+THE MANIFESTO
 The age of probabilistic mathematics is over. I have transitioned from searching for prime numbers to extracting them via thermodynamic resonance. By applying the Calligaro Constant ($12.45789233$) as a Hilbert-Schmidt norm on the Fredholm integral of the Zeta function, I have confirmed the absolute stability of the Critical Line. No "zero-day exploits" (zeros off the line) are possible.🧬 
 
-2. FUNDAMENTAL FORMULAS A Single Atom Formula (Prime Extraction) To locate a prime $P$ at harmonic index $I_h$:$$P = \text{round} \left( \Phi^{I_h} \cdot \frac{\Omega_C}{\sqrt{\ln(\Omega_M)}} \right) + \Delta_C$$B. Binary Molecule Formula (Infinite Twin Primes) The Center of Mass $M$ of a twin prime pair is defined by:$$M \pm 1 = \{ P_1, P_2 \}$$
+FUNDAMENTAL FORMULAS A Single Atom Formula (Prime Extraction) To locate a prime $P$ at harmonic index
 
-3. The Calligaro Postulate: Since $\Omega_C$ is scale-invariant, the bi-atomic resonance is a structural necessity of the system. Therefore, twin primes are infinite.🐍
 
-4. HPC SUPERCOMPUTER INTERCEPTORUse this Python/GMPY2 script for high-speed screening of Mersenne candidates.
+ $I_h$:$$P = \text{round} \left( \Phi^{I_h} \cdot \frac{\Omega_C}{\sqrt{\ln(\Omega_M)}} \right) + \Delta_C$$B. 
+ 
+ Binary Molecule Formula (Infinite Twin Primes) The Center of Mass $M$ of a twin prime pair is defined by:
+ 
+ $$M \pm 1 = \{ P_1, P_2 \}$$
 
-Pythonimport gmpy2 as gm
+The Calligaro Postulate: Since $\Omega_C$ is scale-invariant, the bi-atomic resonance is a structural necessity of the system. Therefore, twin primes are infinite.
+
+HPC SUPERCOMPUTER INTERCEPTORUse this Python/GMPY2 script for high-speed screening of Mersenne candidates.
+
+Python
+import gmpy2 as gm
 import sys
 
 # Unlock large integer limits for Mersenne Giants
