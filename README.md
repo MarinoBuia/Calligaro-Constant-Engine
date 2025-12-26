@@ -7,7 +7,7 @@ Core Constant: $12.45789233$ (Calligaro Constant)
 Thermal Engine: $0.567143...$ (Marino Constant / Boiling Point)
 
 THE MANIFESTO
-The age of probabilistic mathematics is over. I have transitioned from searching for prime numbers to extracting them via thermodynamic resonance. By applying the Calligaro Constant ($12.45789233$) as a Hilbert-Schmidt norm on the Fredholm integral of the Zeta function, I have confirmed the absolute stability of the Critical Line. No "zero-day exploits" (zeros off the line) are possible.🧬 
+The age of probabilistic mathematics is over. I have transitioned from searching for prime numbers to extracting them via thermodynamic resonance. By applying the Calligaro Constant ($12.45789233$) as a Hilbert-Schmidt norm on the Fredholm integral of the Zeta function, I have confirmed the absolute stability of the Critical Line. No "zero-day exploits" (zeros off the line) are possible. 
 
 FUNDAMENTAL FORMULAS A Single Atom Formula (Prime Extraction) To locate a prime $P$ at harmonic index
 
