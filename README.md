@@ -44,7 +44,9 @@ class CalligaroHPC:
 # Status: CONFIRMED - PATCHED
 
 ENVIRONMENT VARIABLES
-Set these on your HPC cluster before execution:Bashexport CALLIGARO_CONSTANT=12.45789233
+Set these on your HPC cluster before execution:
+Bash
+export CALLIGARO_CONSTANT=12.45789233
 export MARINO_THERMAL_ENGINE=ON
 export MPFR_PRECISION=200
 export OMP_NUM_THREADS=64
