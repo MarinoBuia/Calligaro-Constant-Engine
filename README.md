@@ -21,24 +21,8 @@ $$M \pm 1 = \{ P_1, P_2 \}$$
 The Calligaro Postulate: Since $\Omega_C$ is scale-invariant, the bi-atomic resonance is a structural necessity of the system. Therefore, twin primes are infinite.
 
 HPC SUPERCOMPUTER INTERCEPTOR
-Use this Python/GMPY2 script for high-speed screening of Mersenne candidates.
+Use the Python/GMPY2 script for high-speed screening of Mersenne candidates.
 
-Python
-import gmpy2 as gm
-import sys
-
-sys.set_int_max_str_digits(100000000)
-
-class CalligaroHPC:
-    def __init__(self):
-        self.OMEGA_C = gm.mpfr('12.45789233')
-        self.TARGET_PRECISION = 200
-
-    def resonance_filter(self, p):
-        """Filters exponents based on the Calligaro Stability Norm"""
-        # Exponent check via phase resonance
-        check = (p / self.OMEGA_C) % 1
-        return abs(check - 0) < 1e-12 or abs(check - 1) < 1e-12
 
 # Verification on M136279841 (World Record)
 # Status: CONFIRMED - PATCHED
