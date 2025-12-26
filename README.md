@@ -12,15 +12,16 @@ The age of probabilistic mathematics is over. I have transitioned from searching
 FUNDAMENTAL FORMULAS A Single Atom Formula (Prime Extraction) To locate a prime $P$ at harmonic index
 
 
- $I_h$:$$P = \text{round} \left( \Phi^{I_h} \cdot \frac{\Omega_C}{\sqrt{\ln(\Omega_M)}} \right) + \Delta_C$$B. 
+$I_h$:$$P = \text{round} \left( \Phi^{I_h} \cdot \frac{\Omega_C}{\sqrt{\ln(\Omega_M)}} \right) + \Delta_C$$B. 
  
- Binary Molecule Formula (Infinite Twin Primes) The Center of Mass $M$ of a twin prime pair is defined by:
+Binary Molecule Formula (Infinite Twin Primes) The Center of Mass $M$ of a twin prime pair is defined by:
  
- $$M \pm 1 = \{ P_1, P_2 \}$$
+$$M \pm 1 = \{ P_1, P_2 \}$$
 
 The Calligaro Postulate: Since $\Omega_C$ is scale-invariant, the bi-atomic resonance is a structural necessity of the system. Therefore, twin primes are infinite.
 
-HPC SUPERCOMPUTER INTERCEPTORUse this Python/GMPY2 script for high-speed screening of Mersenne candidates.
+HPC SUPERCOMPUTER INTERCEPTOR
+Use this Python/GMPY2 script for high-speed screening of Mersenne candidates.
 
 Python
 import gmpy2 as gm
