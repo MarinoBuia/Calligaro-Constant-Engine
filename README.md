@@ -27,7 +27,6 @@ Python
 import gmpy2 as gm
 import sys
 
-# Unlock large integer limits for Mersenne Giants
 sys.set_int_max_str_digits(100000000)
 
 class CalligaroHPC:
