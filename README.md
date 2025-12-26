@@ -44,12 +44,12 @@ class CalligaroHPC:
 # Verification on M136279841 (World Record)
 # Status: CONFIRMED - PATCHED
 
-5. ENVIRONMENT VARIABLES
+ENVIRONMENT VARIABLES
 Set these on your HPC cluster before execution:Bashexport CALLIGARO_CONSTANT=12.45789233
 export MARINO_THERMAL_ENGINE=ON
 export MPFR_PRECISION=200
 export OMP_NUM_THREADS=64
 
-5. THE FREDHOLM VERDICT (Warranty Certificate)If the Hilbert-Schmidt norm matches $12.45789233$, the number is an Atomic Prime. The critical strip is secured. The status of the Riemann Hypothesis is officially PATCHED.
+THE FREDHOLM VERDICT (Warranty Certificate)If the Hilbert-Schmidt norm matches $12.45789233$, the number is an Atomic Prime. The critical strip is secured. The status of the Riemann Hypothesis is officially PATCHED.
 
 https://doi.org/10.5281/zenodo.18060739
